@@ -15,7 +15,10 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.room.Room;
 
 public class MainActivity extends AppCompatActivity {
+
+    // this is the main activity of the application
   private EditText firstname ;
+
     private EditText middlename ;
     private EditText lastname;
      private Button save;
